@@ -1,26 +1,21 @@
-# This is a team project by  
+# Hotel-Management-System
 
-    1. George Claudio Maigua - <georgeclaudiofficiel@gmail.com>  
-    2. Caleb Baraka - <calebbaraka79@gmail.com>  
-    3. Virginia Irungu - <virginiairungu14@gmail.com>  
-    4. Bikeyo Lello - <lellobikeyo@gmail.com>  
-    5. Wycklife Omondi - <omondiwicky2003@gmail.com>  
-    6. Clara Sulo - <suloclara3@gmail.com>  
+This is a web app for managing hotel that will allow users to book a room, make payments and cancel their orders.
+The app will also allow the hotel staff to manage the rooms, update the availability, and view the booked rooms
 
-## OBJECTIVE
+## Stack
 
-Creating an enhanced hotel system that is able to register guests, book them hotel rooms and manage all their invoicing.  
+- Frontend: HTML, CSS and JS
+- Backend: Python(Flask)
+- Database: PostgSQL
 
-### Classes to be created  
+### Features
 
-    1. Room  
-    2. Guest  
-    3. Booking  
-    4. Hotel
+    1. Add, update and remove rooms
+    2. Register and manage guest information
+    3. Create, update and cancel bookings
+    4. Generate invoices for booking
 
-### Features  
+## Contribution
 
-    1. Add, update and remove rooms  
-    2. Register and manage guest information  
-    3. Create, update and cancel bookings  
-    4. Generate invoices for booking  
+This project is open for contribution if you wish to contribute follow the steps below
