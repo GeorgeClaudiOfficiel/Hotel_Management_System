@@ -5,3 +5,6 @@ This is a team project by :
     4. Bikeyo Lello - <lellobikeyo@gmail.com>
     5. Wycklife Omondi - <omondiwicky2003@gmail.com>
     6. Clara Sulo - <suloclara3@gmail.com>
+
+OBJECTIVE 
+Creating a hotel system that is able to register guests, book them hotel rooms and manage all their invoicing.
