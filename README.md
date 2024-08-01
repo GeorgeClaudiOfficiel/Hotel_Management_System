@@ -35,6 +35,6 @@ We appreciate the efforts of all contributors. Here are some key contributors an
 - **Virginia Irungu** - Frontend Developer, Documentation, Github Management
 - **Wycklife Omondi** - Flowchart, Design, Github Management
 - **Bikeyo Lello** - Workability of the Code, Github Management
-- **Clara Sulo** -Github Management, Workability of the Code
+- **Clara Sulo** -Github Management, Workability of the Code and the presentation off the project in class
 
 Feel free to add yourself to this list when you make significant contributions to the project.
